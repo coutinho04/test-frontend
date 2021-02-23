@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "foto": "https://randomuser.me/api/portraits/men/24.jpg",
+    "nome": "Alberto",
+    "cargo": "Presidente",
+    "idade": 20
+  },
+  {
+    "id": 2,
+    "foto": "https://randomuser.me/api/portraits/men/22.jpg",
+    "nome": "Bruno",
+    "cargo": "Diretor",
+    "idade": 21
+  },
+  {
+    "id": 3,
+    "foto": "https://randomuser.me/api/portraits/women/40.jpg",
+    "nome": "Helena",
+    "cargo": "Gerente",
+    "idade": 22
+  },
+  {
+    "id": 4,
+    "foto": "https://randomuser.me/api/portraits/women/24.jpg",
+    "nome": "Fernanda",
+    "cargo": "Desenvolvedora",
+    "idade": 23
+  },
+  {
+    "id": 5,
+    "foto": "https://randomuser.me/api/portraits/men/20.jpg",
+    "nome": "Diego",
+    "cargo": "Desenvolvedor",
+    "idade": 24
+  },
+  {
+    "id": 6,
+    "foto": "https://randomuser.me/api/portraits/women/30.jpg",
+    "nome": "Iris",
+    "cargo": "Desenvolvedora",
+    "idade": 25
+  },
+  {
+    "id": 7,
+    "foto": "https://randomuser.me/api/portraits/men/18.jpg",
+    "nome": "Hugo",
+    "cargo": "Desenvolvedor",
+    "idade": 26
+  },
+  {
+    "id": 8,
+    "foto": "https://randomuser.me/api/portraits/men/17.jpg",
+    "nome": "Gustavo",
+    "cargo": "Desenvolvedor",
+    "idade": 27
+  },
+  {
+    "id": 9,
+    "foto": "https://randomuser.me/api/portraits/men/30.jpg",
+    "nome": "Gabriel",
+    "cargo": "Desenvolvedor",
+    "idade": 28
+  }
+]
