@@ -1,5 +1,3 @@
-console.log('teste');
-
 let globalEmployees = [];
 
 async function start() {
